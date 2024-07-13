@@ -1,6 +1,6 @@
 # ToDo List App
 
-This is a simple ToDo List application for managing tasks. It uses HTML, CSS, JavaScript.
+This is a simple ToDo List application for managing tasks. It uses HTML, CSS and JavaScript.
 
 ## Features
 
@@ -25,4 +25,4 @@ This is a simple ToDo List application for managing tasks. It uses HTML, CSS, Ja
 
 ## Live Demo
 
-Check out the live demo [here](https://your-demo-link.com).
+Check out the live demo [here](https://mohammed-fawzzi.github.io/To-Do-App/).
