@@ -1,6 +1,6 @@
 # ToDo List App
 
-This is a simple ToDo List application for managing tasks. It uses HTML, CSS, JavaScript, and SweetAlert 2.
+This is a simple ToDo List application for managing tasks. It uses HTML, CSS, JavaScript.
 
 ## Features
 
